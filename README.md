@@ -1,2 +1,1 @@
-# AI-suru
-Some GA projects
+Environment using GA, made in processing
